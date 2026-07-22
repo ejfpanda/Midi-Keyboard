@@ -6,10 +6,14 @@ It has 20 keys, 2 rotary encoders, a digital-to-analog converter (I2S DAC), an s
 
 ## CAD
 
+<img width="1190" height="743" alt="Screenshot 2026-07-23 000244" src="https://github.com/user-attachments/assets/a6fa09d2-a711-4ed5-ace7-f4b6a7cb3f65" />
 
 
 ## PCB and schematic
 
+<img width="1148" height="621" alt="Screenshot 2026-07-23 000326" src="https://github.com/user-attachments/assets/6e9a8583-17a1-4b11-b29c-af2b6539915a" />
+
+<img width="1035" height="504" alt="Screenshot 2026-07-23 000340" src="https://github.com/user-attachments/assets/3ee5698b-c4a1-40c3-bb7b-3c139a41fc1f" />
 
 ## Required parts:
 
